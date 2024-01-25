@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Research Experience"
+    url: /publications/
+
+  - title: "Professional Experience"
+    url: /professional-experience/
+
+  - title: "About Me"
+    url: /about-me/
