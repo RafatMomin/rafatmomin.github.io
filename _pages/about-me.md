@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* **B.Sc. in Computer Engineering**, Iowa State University
+* **B.S. in Computer Engineering**, Iowa State University
 
 ---
 
