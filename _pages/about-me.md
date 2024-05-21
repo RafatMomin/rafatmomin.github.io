@@ -15,9 +15,8 @@ Education
 
 Technical Strengths
 ======
-* **Computer Languages**: Java 8, Python 3, JavaScript, C, C++, Oracle SQL, MySQL, Dart <br>
-* **Software & Tools:** HTML, CSS, Network Simulator-2, CISCO Packet Tracer, Latex,
-MATLAB, DialogFlow, Docker, Git <br>
+* **Computer Languages**: C, Java, Python, Verilog <br>
+* **Software & Tools:** HTML, CSS, Quartus Prime, MATLAB, Git <br>
 * **Frameworks:** Spring Boot, Flask, Django, Keras, Spring MVC, Flutter, React Native, 
 AngularJS, Node.js, vue.js, Bootstrap <br>
 * **Operating Systems:** Linux(Ubuntu, Mint and Fedora), Windows, Android, MacOS, iOS. <br>
